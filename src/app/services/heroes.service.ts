@@ -61,8 +61,11 @@ export class HeroesService {
     return this.heroes;
   }
 
+  getHeroe(index:string) {
+    return this.heroes[index];
+  }
+
   constructor() {
-    console.log('Service Ready!');
   }
 }
 
