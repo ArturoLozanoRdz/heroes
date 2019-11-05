@@ -11,4 +11,8 @@ export class NavbarComponent implements OnInit {
   ngOnInit() {
   }
 
+  buscarPalabra(palabra:string) {
+    console.log(palabra);
+  }
+
 }
