@@ -86,7 +86,8 @@
     "use-pipe-transform-interface": true,
     "variable-name":false,
     "typedef-whitespace":false,
-    "whitespace":false
+    "whitespace":false,
+    "prefer-const":false
   },
   "rulesDirectory": [
     "codelyzer"
