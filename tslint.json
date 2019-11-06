@@ -87,7 +87,8 @@
     "variable-name":false,
     "typedef-whitespace":false,
     "whitespace":false,
-    "prefer-const":false
+    "prefer-const":false,
+    "triple-equals":false
   },
   "rulesDirectory": [
     "codelyzer"
